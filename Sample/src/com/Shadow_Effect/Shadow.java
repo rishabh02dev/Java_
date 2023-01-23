@@ -5,7 +5,7 @@ public class Shadow {
     public static void main(String[] args) {
         System.out.println(x);
         int x ; //the class variable at line 4 is shadowed by this
-        System.out.println(x); //scope will begin when value is instialised.
+//        System.out.println(x); //scope will begin when value is instialised.
         x = 40;
 
         System.out.println(x);

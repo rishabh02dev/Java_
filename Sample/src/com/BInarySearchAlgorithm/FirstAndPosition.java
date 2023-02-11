@@ -12,6 +12,7 @@ public class FirstAndPosition {
 
          ans[0] = start;
          ans[1] = end;
+         return ans;
     }
 
     //this function first return the index value of target

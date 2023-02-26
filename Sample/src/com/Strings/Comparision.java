@@ -1,4 +1,4 @@
-package com.Strings.StringIntro;
+package com.Strings;
 
 public class Comparision {
     public static void main(String[] args) {

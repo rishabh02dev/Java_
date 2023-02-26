@@ -1,4 +1,4 @@
-package com.Strings.StringIntro;
+package com.Strings;
 
 import javax.naming.InsufficientResourcesException;
 

@@ -20,6 +20,8 @@ public class FirstRecursionP1 {
         //if you are calling a function again and again , you can treat is as a recurvsive function
 
         print(n+1);
+
+        //last statement in the function is known as tail recursion
     }
 }
 
